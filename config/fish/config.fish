@@ -1,0 +1,1 @@
+﻿set fish_greeting
